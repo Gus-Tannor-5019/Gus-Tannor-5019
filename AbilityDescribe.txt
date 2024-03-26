@@ -1,0 +1,243 @@
+newline {
+
+}
+BasicDefense {Arts defensifs de base}
+perkBasicDefense {
+ Les degats reçus diminuent de 10%. 
+}
+AdvancedDefense {Arts defensifs avances}
+perkAdvancedDefense {
+ Les degats reçus diminuent de 20%. 
+}
+CriticalHit {Coup critique}
+perkCriticalHit {
+ Gagnez 5% de chance de livrer un coup critique en attaquant. 
+}
+Ciras {Cuirasse}
+perkCiras {
+ Permet d’equiper une cuirasse. 
+}
+SwordplayProfessional {Escrime d’elite }
+perkSwordplayProfessionnel {
+ 20% de chance de recevoir un coup critique. Les degats reçus diminuent de 30%. 
+}
+Grus {Homme Fort}
+perkGrus {
+ Soulevez 30 livres supplementaires. 
+}
+Rush {Fou Furieux}
+perkRush {
+ Pendant 10 secondes, l’attaque et la force defensive augmentent de façon exponentielle. Periode de recharge de 1 minute. 
+}
+Tireless {Poussee d’adrenaline}
+perkTireless {
+ Vous obtenez un second vent au combat, et il devient plus facile de resister a l’epuisement. (L’energie recupere 15% plus rapidement.) 
+}
+HardHitter {Main lourde}
+perkHardHitter {
+ Vos coups submergent l’adversaire, le vidant de la force de se battre. 
+}
+BladeDancer {Danseur d’epee}
+perkBladeDancer {
+ Enfin, vous saisissez comment bien balancer une epee. (30% de bonus aux attaques de swing.) 
+}
+Sliding {Bélier}
+perkSliding {
+Vos coups ont 20% de chances supplementaires de briser la garde de l’ennemi. 
+}
+Gunman {Tireur}
+perkGunman {
+ Les competences en armes a feu augmentent. Les armes a feu se rechargent 10 % plus rapidement. La precision augmente de 10 %. Vous pouvez maintenant utiliser des pistolets a deux canons. 
+}
+GunProfessional {Coup malin}
+perkGunProfessional {
+ Les pistolets se rechargent 25 % plus rapidement. La precision augmente de 25 %. Vous pouvez utiliser des pistolets a quatre cartouches. 
+}
+IronWill {Volonte de fer}
+perkIronWill {
+ Reduit le risque de mutinerie due au non-paiement et a la faim.
+}
+SharedExperience {Échange d’experiences}
+perkSharedExperience {
+ Partagez des objets entre les officiers pendant l’attaque. 
+ Le double de l’experience partagee entre les passagers (10 %), les agents (50 %) et les accompagnateurs (33 %). 
+}
+Medic {Constitution de Fer}
+perkMedic {
+ Recouvrer la sante plus rapidement, a condition d’eviter les blessures majeures pendant 24 heures. Reduit la gravite des blessures reçues. L’effet est plus faible en mer. 
+}
+HPPlus {Arbre de vie}
+perkHPPlus {
+ La vie maximale augmente d’un point a chaque augmentation de rang. 
+}
+EnergyPlus {Dynamo}
+perkEnergyPlus {
+ L’energie maximale augmente d’un point a chaque augmentation de rang. 
+}
+ByWorker {Multitache}
+perkByWorker {
+ Occupez deux postes d’officier a la fois. 
+}
+ByWorker2 {Touche a tout}
+perkByWorker2 {
+ Occupez trois postes d’officier a la fois. 
+}
+Trustworthy {Visage honnete}
+perkTrustworthy {
+ Les clients potentiels ne sont pas influences par une reputation negative. 
+}
+ShipEscape {Sauvetage}
+perkShipEscape {
+ Si le navire est gravement endommage (< 15 % d’integrite), echappez-vous par canot de sauvetage a un autre navire de votre escadron. 
+ Tous les compagnons avec cette competence se deplaceront vers le vaisseau de leur chef. 
+}
+FastReload {Rechargement rapide}
+perkFastReload {
+ Les canons se rechargent 10% plus vite. 
+}
+ImmediateReload {Rechargement Immédiat}
+perkImmediateReload {
+ Le rechargement suivant est 50 % plus rapide. Temps d’arret de 5 minutes entre les utilisations. 
+}
+HullDamageUp {Wrecker}
+perkHullDamageUp {
+ Augmente les degats infliges aux coques ennemies de 15%. 
+}
+SailsDamageUp {Dommages des Voiles accrue}
+perkSailsDamageUp {
+ Augmente les degats infliges aux voiles ennemies de 15%. 
+}
+CrewDamageUp {Dieu de la mort}
+perkCrewDamageUp {
+ Augmente les degats infliges a l’equipage ennemi de 15%. 
+}
+CriticalShoot {Tir critique}
+perkCriticalShoot {
+ 5% de chance de livrer un tir critique a l’ennemi. 
+}
+LongRangeShoot {Feu lointain}
+perkLongRangeShoot {
+ Portee des canons augmentee de 15%. 
+}
+CannonProfessional {Maitre artilleur}
+perkCannonProfessional {
+ 30% de degats d’attaque en mieux a n’importe quelle partie du vaisseau. 15% de chances de toucher un coup critique. 
+}
+LongRangeGrappling {Longue planche}
+perkLongRangeGrappling {
+ La portee d’embarquement augmente de 15%. 
+}
+MusketsShoot {Volée de Mousquet}
+perkMusketsShoot {
+Avant l’embarquement, une volee de mousquets est effectuee, pour 25% de degats a l’equipage ennemi, mais pas plus que le nombre de tireurs.
+}
+GrapplingProfessional {Maitre d'abordage
+perkGrapplingProfessional {
+La portee d’embarquement augmente de 25 %. L’embarquement peut etre effectue a n’importe quelle vitesse et sous n’importe quel angle.
+}
+BasicBattleState {Defense navale de base}
+perkBasicBattleState {
+ Degats generaux subis de 15%.
+}
+AdvancedBattleState {Defense navale avancee}
+perkAdvancedBattleState {
+ Degats generaux subis de 25%.
+}
+ShipDefenseProfessional {Defense navale d’elite}
+perkShipDefenseProfessional {
+ Degats generaux subis par le vaisseau de 25%. Chance de recevoir un coup critique de 70%. 
+}
+LightRepair {Reparation legere}
+perkLightRepair {
+ Reparer le navire lentement (plus de 60 secondes), mais sans depenser de ressources. Bon pour jusqu’a 10% des PV du navire. Empeche egalement un navire avec moins de 10% de ses PV de couler. 
+ Peut etre utilise une fois toutes les 3 minutes. 
+}
+InstantRepair {Reparation rapide}
+perkInstantRepair {
+ Reparer le navire rapidement. Necessite du bois pour la coque et de la toile pour les voiles. Ne peut pas restaurer les mats tombes ou l’equipage epuise. Bon pour jusqu’a 65% des PV du navire. Peut etre utilise une fois toutes les 90 secondes. 
+}
+ShipSpeedUp {Vitesse navale accrue}
+perkShipSpeedUp {
+ Augmente la vitesse maximale du navire de 15%. 
+}
+ShipTurnRateUp {Maniabilite navale accru}
+perkShipTurnRateUp {
+ Augmente la maniabilite du navire de 15%. 
+}
+StormProfessional {Battez les ecoutilles}
+perkStormProfessional {
+ Reduit les degats de la tempete de 30%. 
+}
+Turn180 {Rotation rapide}
+perkTurn180 {
+ Le navire tourne 8x plus vite, pendant 1 minute. Temps de reinitialisation de 3 minutes.
+}
+SandbankManeuver {Manœuvre d'élite}
+perkSandbankManeuver {
+ Annule les dommages par contact causes par les falaises, les recifs et les bas-fonds pendant 60 secondes. Peut permettre de s’echapper en toute securite de circonstances dangereuses. 
+}
+SailingProfessional {Vieux chien de mer}
+perkSailingProfessional {
+ Manoeuvre 20 % plus rapide. Manque toutes les rencontres regulieres. 
+}
+FlagPir {Jolly Roger}
+perkFlagPir {
+ Changez votre drapeau en Jolly Roger. 
+}
+FlagEng {Drapeau anglais}
+perkFlagEng {
+ Hissez le drapeau de l’Angleterre. La probabilite d’etre demasque depend de la furtivite, de la classe, du nombre de navires dans l’escadron, du nombre de navires ennemis et de tout prix sur votre tete. 
+}
+FlagFra {Drapeau français}
+perkFlagFra {
+ Hissez le drapeau de la France. La probabilite d’etre demasque depend de la furtivite, de la classe, du nombre de navires dans l’escadron, du nombre de navires ennemis et de tout prix sur votre tete. 
+}
+FlagSpa {Drapeau espagnol}
+perkFlagSpa {
+ Battre le drapeau de l’Espagne. La probabilite d’etre demasque depend de la furtivite, de la classe, du nombre de navires dans l’escadron, du nombre de navires ennemis et de tout prix sur votre tete. 
+}
+FlagHol {Drapeau neerlandais}
+perkFlagHol {
+ Hissez le drapeau neerlandais. La probabilite d’etre demasque depend de la furtivite, de la classe, du nombre de navires dans l’escadron, du nombre de navires ennemis et de tout prix sur votre tete. 
+}
+Brander {Brulot}
+perkBrander {
+ Envoyer un navire allie pour exploser pres d’un navire ennemi, faisant des degats massifs. 
+}
+Troopers {Debarquement des troupes alliees}
+perkTroopers {
+ Avant de prendre d’assaut un fort, rassemblez les equipes de vos differents navires et attaquez en un seul groupe. 
+}
+BasicCommerce {Commerce de base}
+perkBasicCommerce {
+ 10% de reduction sur les produits achetes en magasin.
+}
+AdvancedCommerce {Commerce Avancé}
+perkAdvancedCommerce {
+ 20% de reduction sur les produits achetes en magasin. 5% de bonus pour revendre les tarifs. 
+}
+Carpenter {Charpentier}
+perkCarpenter {
+ Toutes les reparations sont jusqu’a 10% plus efficaces. 
+}
+Builder {Constructeur naval}
+perkBuilder {
+ Diminue de 10 % les fournitures utilisees pendant les reparations. 
+}
+WindCatcher {Control du Vent}
+perkWindCatcher {
+ Vous sentez le moindre changement dans le flux d’air, et vous comprenez comment l’utiliser. (Acceleration augmente de 10%.) 
+ }
+SailsMan {Super Voiles}
+perkSailsMan {
+ Grace a la toute derniere technologie carrot-and-stick, vous avez conçu toutes les operations de navigation pour vous deplacer 10% plus vite. 
+}
+Doctor1 {Medecine}
+perkDoctor1 {
+ Reduit de 10% les pertes causees par les batailles maritimes, les blessures et la mitraille. 
+}
+Doctor2 {Chirurgien}
+perkDoctor2 {
+ Reduit de 20% les pertes des batailles maritimes, des blessures et de la mitraille. 
+}
+InstantBoarding {Embarquement de Triche}
